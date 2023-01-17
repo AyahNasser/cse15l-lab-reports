@@ -19,7 +19,7 @@ After you are done installing VScode, you will have something like this.
 2- Remotely Connecting
 First you need to open a terminal in either your VScode or the terminal on your mac. 
 So, to open the terminal on your VScode, you need to go to (Ctrl or Command +, or use the Terminal → New Terminal menu option)
-After opening the terminal sucessffuly, you need to write ssh cs15lwi23zz@ieng6.ucsd.edu, but replace the **zz** letters with your the letters in your course-specific account.
+After opening the terminal successfully, you need to write ssh cs15lwi23zz@ieng6.ucsd.edu, but replace the **zz** letters with your the letters in your course-specific account.
 -
 Moreover, if this is your first time to connecting to this server, you will probably get a message like this:
 -
