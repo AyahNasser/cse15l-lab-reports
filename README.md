@@ -47,7 +47,7 @@ Here is some commands examples you can try running:
 - cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
 - cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 -
-**What I learned from running some certain commands, and what I founf intersting.** 
+**What I learned from running some certain commands, and what I found intersting.** 
 - For example, I ran cd ~ command to change the directory to Folder1 (See in the picture below).
 - Another example, I ran ls command as well, which lists the contents of the current directory. 
 - One more command that is not on the picture provided below, but I find it very interstring is pwd command. Pwd command prints out the current path name you are on. 
